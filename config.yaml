@@ -1,0 +1,9 @@
+best_model: RandomForest
+metrics:
+  LinearRegression:
+    MAE: 55244925.66657025
+    R2: -4.274849610356318
+  RandomForest:
+    MAE: 30901162.045383334
+    R2: -0.3546953487059865
+target: 2024_-_2025

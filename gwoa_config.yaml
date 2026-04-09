@@ -1,0 +1,10 @@
+features:
+- 2014_-_2015
+- 2017_-_2018
+- 2020_-_2021
+- 2023_-_2024
+metrics:
+  MAE: 194295741.73833334
+  R2: -8.16434649575159
+model: GWOA Optimized RandomForest
+target: 2024_-_2025
