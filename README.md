@@ -1,4 +1,4 @@
-# 🧠 Mineral Revenue Intelligence System (MRIS)
+# 🧠 Mineral Revenue Intelligence System (MRIS).
 
 ## 🚀 Overview
 The **Mineral Revenue Intelligence System (MRIS)** is an advanced Machine Learning project that analyzes and predicts mineral revenue patterns using real-world datasets.
